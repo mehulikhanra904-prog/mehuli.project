@@ -1,3 +1,3 @@
-A# mehuli.project
-This is my first Git Repository 
-Author - Mehuli Khanra 
+ mehuli.project.
+This is my first Git Repository.
+Author - Mehuli Khanra.
